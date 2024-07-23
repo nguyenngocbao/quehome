@@ -43,10 +43,10 @@ const HeroBanner = () => {
               lineHeight="shorter"
               marginBottom="1.5rem"
             >
-              "Bán nhà không lo lắng - <strong>QueHome.vn</strong> hỗ trợ toàn diện
+              Giải Pháp Mua, Bán Nhà Hiệu Quả với <strong>QueHome.VN</strong>
             </Text>
             <Text fontSize={{ base: 'lg', sm: '2xl' }}>
-            Tại QueHome.vn, chúng tôi cam kết hỗ trợ bạn trong toàn bộ quá trình bán nhà đất một cách chuyên nghiệp và hiệu quả, mà không thu bất kỳ khoản phí nào, giúp bạn tối ưu hóa giá trị bất động sản của mình trên khắp Việt Nam.
+            Bạn là người bán đang tìm kiếm người mua hoặc nhà đầu tư phù hợp mà không gặp bất kỳ khó khăn nào? <strong>QueHome.VN</strong> chính là giải pháp dành cho bạn. Chúng tôi loại bỏ hoa hồng, phí tiếp thị và các chi phí quảng cáo liên quan khác, đảm bảo bạn tiết kiệm chi phí trong khi tìm được đối tác lý tưởng cho nhu cầu của mình.
             </Text>
           </Box>
           <Box

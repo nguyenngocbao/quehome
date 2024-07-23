@@ -18,7 +18,7 @@ const Testimonials = () => {
           paddingX="2rem"
           textAlign="center"
         >
-          Testimonials
+          Tại Sao Nên Chọn QueHome.VN?
         </Text>
         <Text
           fontSize="2xl"
@@ -28,11 +28,11 @@ const Testimonials = () => {
           paddingX="2rem"
           textAlign="center"
         >
-          Here`s what our valued clients have to say
+          
         </Text>
         <SimpleGrid
-          columns={3}
-          minChildWidth="300px"
+          columns={4}
+          minChildWidth="200px"
           gap={{ base: '0.5rem', sm: '2.5rem' }}
         >
           {testimonials.map((testimonial) => (

@@ -1,23 +1,30 @@
 export const testimonials = [
   {
-    name: 'Yovonnda Bostick',
+    name: 'Không Hoa Hồng',
     company: 'Realmix',
     image: './testimonials/testimonial4.jpeg',
     testimonial:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam a velit fermentum, ultrices ligula sed, tincidunt est. Nullam vulputate sollicitudin nulla non pulvinar. In eget imperdiet magna.',
+      'Giữ lại toàn bộ lợi nhuận của bạn.',
   },
   {
-    name: 'Fina Scallon',
+    name: 'Không Phí Tiếp Thị',
     company: 'Kamba',
     image: './testimonials/testimonial2.jpeg',
     testimonial:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam a velit fermentum, ultrices ligula sed, tincidunt est. Nullam vulputate sollicitudin nulla non pulvinar. In eget imperdiet magna.',
+      'Loại bỏ hoàn toàn các chi phí ẩn.',
   },
   {
-    name: 'Ron Schonfeld',
+    name: 'Không Chi Phí Quảng Cáo',
     company: 'Tagopia',
     image: './testimonials/testimonial3.jpeg',
     testimonial:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam a velit fermentum, ultrices ligula sed, tincidunt est. Nullam vulputate sollicitudin nulla non pulvinar. In eget imperdiet magna.',
+      'Tối ưu hóa khoản tiết kiệm của bạn.',
+  },
+  {
+    name: 'Quy Trình Đơn Giản',
+    company: 'Tagopia',
+    image: './testimonials/testimonial3.jpeg',
+    testimonial:
+      'Chúng tôi xử lý mọi thủ tục, giúp bạn tiết kiệm thời gian và công sức.',
   },
 ];

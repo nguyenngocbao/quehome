@@ -34,7 +34,7 @@ const Contact = () => {
                 fontSize="1rem"
                 marginBottom="1rem"
               >
-                (+84)5555555
+                (+84) 0822057922
               </Text>
               {/* <Text fontWeight="light" color="gray.600" fontSize="1rem">
                 Abraham Lincoln <br />

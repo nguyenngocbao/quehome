@@ -16,10 +16,11 @@ export default function Home({
       description='QueHome.vn - Đối tác tin cậy trong giao dịch bất động sản toàn quốc'
     >
       <HeroBanner />
+      <Testimonials />
       {/* <FeaturedProperties featuredProperties={featuredProperties} /> */}
       <MeetTheTeam />
       {/* <Partners /> */}
-      {/* <Testimonials /> */}
+      
     </DefaultLayout>
   );
 }

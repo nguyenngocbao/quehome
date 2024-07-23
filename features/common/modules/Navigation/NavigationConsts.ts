@@ -11,8 +11,8 @@ export const navigationLinks: Array<navigationLink> = [
   // { title: 'Properties', link: '/properties', icon: HiCube },
   { title: 'Liên hệ', link: '/contact', icon: HiNewspaper },
   {
-    title: '(+84) 555 555',
-    link: 'tel:(800) 555 555',
+    title: '(+84) 0822057922',
+    link: 'tel:(+84) 0822057922',
     icon: HiPhoneArrowUpRight,
   },
 ];

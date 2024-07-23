@@ -96,7 +96,7 @@ const HeroForm = () => {
                 marginTop="1.3rem"
                 id="name"
                 type="text"
-                placeholder="Địa chỉ cần bán"
+                placeholder="Địa chỉ cần mua/bán"
                 {...register('name', { required: true })}
               />
               {errors.name && (

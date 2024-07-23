@@ -7,7 +7,7 @@ const TestimonialCard: React.FC<{
   image: string;
   company: string;
   testimonial: string;
-}> = ({ name, image, company, testimonial }) => {
+}> = ({ name, testimonial }) => {
   return (
     <Box
       backgroundColor="#ffffff"
@@ -16,33 +16,11 @@ const TestimonialCard: React.FC<{
       flexDirection="column"
       marginBottom={{ base: '1rem', sm: '0' }}
     >
-      <Box>
-        <TbQuote size={40} color="#4299e1" />
-      </Box>
+      <Text fontSize="2xl" color="#4299e1"> {name}</Text>
       <Text fontSize="lg" color="gray.500" marginY="1.8rem">
         {testimonial}
       </Text>
-      <Flex gap="1rem" alignItems="center">
-        <Image
-          src={image}
-          alt={name}
-          width="6rem"
-          height="6rem"
-          objectFit="cover"
-          borderRadius="full"
-        />
-        <Box>
-          by <Text as="span">{name}</Text>
-          <Text
-            fontSize="lg"
-            fontStyle="italic"
-            fontWeight="light"
-            color="gray.600"
-          >
-            company - {company}
-          </Text>
-        </Box>
-      </Flex>
+      
     </Box>
   );
 };
