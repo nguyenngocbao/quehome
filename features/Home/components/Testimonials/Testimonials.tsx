@@ -28,7 +28,8 @@ const Testimonials = () => {
           paddingX="2rem"
           textAlign="center"
         >
-          
+          Hãy tham gia với chúng tôi ngay hôm nay và trải nghiệm giải pháp bán hàng hiệu quả, tiết kiệm chi phí!
+        
         </Text>
         <SimpleGrid
           columns={4}
